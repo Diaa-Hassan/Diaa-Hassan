@@ -14,9 +14,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/s7hakyqT"><img width="32px" alt="Discord" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="bug-daddy.medium.com"><img width="32px" alt="Medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>
+  <a href="https://bug-daddy.medium.com/"><img width="32px" alt="Medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="diaahassan000@gmail.com"><img width="32px" alt="GMail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+  <a href="https://www.behance.net/diaahassan2"><img width="32px" alt="Behance" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938108.png?token=exp=1636758053~hmac=5f291b1352e53f3bd5c528e4d0808fc1"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/diaa-hassn-2695841b7" alt="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/></a>
 </p>
