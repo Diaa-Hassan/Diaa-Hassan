@@ -23,18 +23,18 @@
 
 
 ## 🔥 Streak stats
-
+<!--
 <p align="center">
   <a href="">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=BU9D4DDY&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
-
+-->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bu9d4ddy&show_icons=true&locale=en" alt="bu9d4ddy" />
 </p>
 
 
-
+<!--
 ### 👨‍💻 Programming languages
 
 
@@ -91,3 +91,4 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+-->
