@@ -10,8 +10,6 @@
 <p align="center" style="display:flex;">
   <a href="https://twitter.com/BU9D4DDY"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.page/bugdaddy?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog-first"><img width="32px" title="dev.page" src="https://cdn-icons.flaticon.com/png/512/5813/premium/5813860.png?token=exp=1636757688~hmac=26d4a6914bdd0c0af7ecec074f065227"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/s7hakyqT"><img width="32px" alt="Discord" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://bug-daddy.medium.com/"><img width="32px" alt="Medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>
