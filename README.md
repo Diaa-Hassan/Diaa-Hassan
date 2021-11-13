@@ -7,7 +7,7 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;BUGDADDY;A+Computer+Engineer+and+A+Penetration+Tester" alt="Typing SVG" /></a>
 </p>
 
-<p style="display: flex;">
+<p style="display: flex; justify-content: center;">
   <a href="https://twitter.com/BU9D4DDY"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.page/bugdaddy?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog-first"><img width="32px" title="dev.page" src="https://cdn-icons.flaticon.com/png/512/5813/premium/5813860.png?token=exp=1636757688~hmac=26d4a6914bdd0c0af7ecec074f065227"/></a>
