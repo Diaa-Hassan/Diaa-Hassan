@@ -6,33 +6,35 @@
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;BUGDADDY;A+Computer+Engineer+and+A+Penetration+Tester" alt="Typing SVG" /></a>
 </p>
-
 <p align="center" style="display:flex;">
-  <a href="https://twitter.com/BU9D4DDY"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png"/></a>
+  <a href="https://twitter.com/BU9D4DDY"><img width="32px" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/s7hakyqT"><img width="32px" alt="Discord" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>
+  <a href="https://discord.gg/s7hakyqT"><img width="32px" alt="Discord" src="_resources/discord.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bug-daddy.medium.com/"><img width="32px" alt="Medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>
+  <a href="https://bug-daddy.medium.com/"><img width="32px" alt="Medium" src="_resources/medium.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/diaahassan2"><img width="32px" alt="Behance" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938108.png?token=exp=1636758053~hmac=5f291b1352e53f3bd5c528e4d0808fc1"></a>
+  <a href="https://www.behance.net/diaahassan2"><img width="32px" alt="Behance" src="_resources/behance.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diaa-hassn-2695841b7" alt="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/></a>
+  <a href="https://www.linkedin.com/in/diaa-hassn-2695841b7" alt="Linkedin"><img width="32px" src="_resources/linkedin.png"/></a>
 </p>
 
 
+
 ## 🔥 Streak stats
-<!--
 <p align="center">
   <a href="">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=BU9D4DDY&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
--->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bu9d4ddy&show_icons=true&locale=en" alt="bu9d4ddy" />
-</p>
-
 
 <!--
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bu9d4ddy&show_icons=true&locale=en" alt="bu9d4ddy" />
+</p>
+-->
+
+<!--
+
 ### 👨‍💻 Programming languages
 
 
