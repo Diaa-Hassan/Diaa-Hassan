@@ -21,21 +21,21 @@
 
 ## 🔥 Streak stats
 
-<!--
+
 
 <p align="center">
   <a href="">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=BU9D4DDY&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BU9D4DDY&theme=ads-juicy-fresh&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
-
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bu9d4ddy&show_icons=true&locale=en" alt="bu9d4ddy" />
 </p>
--->
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BU9D4DDY&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+-->
 <!--
 
 ### 👨‍💻 Programming languages
