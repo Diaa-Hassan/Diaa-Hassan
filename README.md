@@ -1,6 +1,6 @@
 <h3 align="center" width="600">
   Welcome to Diaa Hassan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
 </h3>
 
 <p align="center">
