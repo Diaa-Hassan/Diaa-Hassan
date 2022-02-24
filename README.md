@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/diaa-hassn-2695841b7" alt="Linkedin"><img width="32px" src="_resources/linkedin.png"/></a>
 </p>
 
-
+<!--
 ## 🔥 Streak stats
 
 
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<!--
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bu9d4ddy&show_icons=true&locale=en" alt="bu9d4ddy" />
 </p>
 
