@@ -96,4 +96,4 @@
 </p>
 -->
 
-![snake gif](https://github.com/BU9D4DDY/BU9D4DDY/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BU9D4DDY/BU9D4DDY/blob/output/github-contribution-grid-snake.svg)
