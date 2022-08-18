@@ -7,15 +7,18 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;BUGDADDY;A+Computer+Engineer+and+A+Penetration+Tester" alt="Typing SVG" /></a>
 </p>
 <p align="center" style="display:flex;">
-  <a href="https://twitter.com/BU9D4DDY"><img width="32px" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
+  <a href="https://twitter.com/BU9D4DDY"><img width="50" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/s7hakyqT"><img width="32px" alt="Discord" src="_resources/discord.png"></a>
+  <a href="https://bug-daddy.medium.com/"><img width="50" alt="Medium" src="_resources/medium.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bug-daddy.medium.com/"><img width="32px" alt="Medium" src="_resources/medium.png"></a>
+  <a href="https://www.behance.net/diaahassan2"><img width="50" alt="Behance" src="_resources/behance.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/diaahassan2"><img width="32px" alt="Behance" src="_resources/behance.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diaa-hassn-2695841b7" alt="Linkedin"><img width="32px" src="_resources/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/diaa-hassan-2695841b7" alt="Linkedin"><img width="50" src="_resources/linkedin.png"/></a>
+</p>
+
+## Technologies Used
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,java,bash,html,css,js,ts,nodejs,express,mongodb,mysql,dart,flutter,wordpress,ps,ai,figma,md,git,github,vscode,heroku" />
 </p>
 
 <!--
