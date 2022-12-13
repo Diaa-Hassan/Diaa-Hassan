@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;A+Computer+Engineer+Interested+In+Software+Development" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;A+Computer+Engineer;Who+Is+Interested+In+Software+Development" alt="Typing SVG" /></a>
 </p>
 <p align="center" style="display:flex;">
   <a href="https://twitter.com/BU9D4DDY"><img width="50" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
