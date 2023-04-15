@@ -1,10 +1,10 @@
-<h3 align="center" width="600">
+<!-- <h3 align="center" width="600">
   Welcome to Diaa Hassan's profile!
   <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
-</h3>
+</h3> -->
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&lines=Hi+%2C+I+am+Diaa;A+Computer+Engineer;Who+Is+Interested+In+Software+Development" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23310DF7&size=30&center=true&vCenter=true&width=680&height=90&duration=4000&lines=Hi+%2C+My+Name+Is+Diaa;A+Software+Engineer;Who+Is+Interested+In+Back-End+Development" alt="Typing SVG" /></a>
 </p>
 <p align="center" style="display:flex;">
   <a href="https://twitter.com/BU9D4DDY"><img width="50" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
@@ -13,12 +13,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.behance.net/diaahassan2"><img width="50" alt="Behance" src="_resources/behance.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diaa-hassan-2695841b7" alt="Linkedin"><img width="50" src="_resources/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/diaa-hasan/" alt="Linkedin"><img width="50" src="_resources/linkedin.png"/></a>
 </p>
 
 ## Technologies Used
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,java,bash,html,css,js,ts,nodejs,express,mongodb,mysql,dart,flutter,wordpress,ps,ai,figma,md,git,github,vscode,heroku" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,redux,jest,mongodb,postgres,mysql,redis,elixir,kubernetes,docker,nginx,kafka,c,py,java,bash,linux,md,git,github,githubactions,vscode,postman,figma" />
 </p>
 
 <!--
