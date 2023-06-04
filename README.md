@@ -22,10 +22,6 @@
   <a href="https://www.linkedin.com/in/diaa-hasan/" alt="Linkedin"><img width="50" src="_resources/linkedin.png"/></a>
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Diaa-Hassan&color=blueviolet)
-</p>
-
 <!--
 ## 🔥 Streak stats
 
